@@ -12,3 +12,12 @@ body {
     font-family: 'Segoe UI', Georgia, serif;
     background-color: #f1f4f0; /* Fundo verde-oliva bem clarinho */
 }
+
+.login-container {
+    background-color: #ffffff;
+    border-top: 8px solid #5c4033; /* Borda cor de madeira escura */
+    padding: 40px;
+    border-radius: 12px;
+    width: 100%;
+    max-width: 400px;
+}
