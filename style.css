@@ -21,3 +21,15 @@ body {
     width: 100%;
     max-width: 400px;
 }
+
+.login-container {
+    box-shadow: 0 8px 24px rgba(40, 54, 24, 0.12);
+}
+
+.login-header h2 {
+    color: #283618; /* Verde-folha escuro */
+    font-size: 26px;
+    margin-bottom: 8px;
+    text-align: center;
+    font-weight: 700;
+}
