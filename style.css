@@ -40,3 +40,15 @@ body {
     margin-bottom: 28px;
     text-align: center;
 }
+.input-group {
+    margin-bottom: 22px;
+}
+
+
+.input-group label {
+    display: block;
+    margin-bottom: 6px;
+    color: #283618;
+    font-size: 14px;
+    font-weight: 600;
+}
