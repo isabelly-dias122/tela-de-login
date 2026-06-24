@@ -7,6 +7,7 @@ document.getElementById("login-form").addEventListener("submit", function(event)
     if (email !== "" && senha !== "") {
         alert("Login realizado com sucesso!");
         window.location.href = "home.html";
+    }else {
+        alert("Preencha todos os campos!");
     }
-
-})
+});
